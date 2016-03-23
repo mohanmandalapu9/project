@@ -23,6 +23,9 @@
 					<li><a class="hamburger-menu" data-side-panel-trigger="mobile-menu"></a></li>
 				</ul>
 			</div>
+
+			<div id="header-Front-links">
+
 			<div id="header-middle-links">
 				<a class="icon-geico" title="insrurance Homepage" href="/"></a>
 			</div>
