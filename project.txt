@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="ie lt-ie10 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="ie lt-ie10 lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]>	  <html class="ie lt-ie10" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+	<head>
+<title>Insurance project- Saving people money on more than car insurance</title>
+
+			<script type="text/javascript"> 
+			    var geicoDtm = { 
+			        
+					"viewName":"Static:HomePage:Default",
+					"experimentGroup":"Static:DefaultHomepageTagline:GroupB",
+					"experimentDetail":"Static:DefaultHomepageTagline:Iteration1"
+				
+			    };
+			</script>
+			<script type="text/javascript" src="//assets.adobedtm.com/59c8b00c30f55a1efed66b762329259018acac6a/satelliteLib-78c2526d6878a4956eac29f3a5287691708b8037.js"></script>
+				</head>
+	<body>
+<ul class="mobile-links">
+					<li><a class="hamburger-menu" data-side-panel-trigger="mobile-menu"></a></li>
+				</ul>
+			</div>
+			<div id="header-middle-links">
+				<a class="icon-geico" title="insrurance Homepage" href="/"></a>
+			</div>
+			<div id="header-right-links">
+				<ul>
+					<li><a data-side-panel-trigger="login" class="login">Log In <span class="icon-account-info"></span></a></li>
+					<li><a data-side-panel-trigger="search" class="search"><span class="icon-search"></span></a></li>
+				</ul>
+				<ul class="mobile-links">
+					<li><a class="login small">Log In <span class="icon-account-info"></span></a></li>
+				</ul>
+			</div>
+		</header>
+</div>					<!-- /page content -->
+			</div>
+			<div class="to-top-arrow"></div>
+			<div class="footer-push"></div>
+		</div>
+		<footer id="primary-footer" class="bg-color--mist">
+			<div id="footer-links-container">
+				<div id="footer-links-social">
+					
+				<div id="footer-links-secondary">
+					<ul>
+						<li><a href="javascript:openFooterLink('privacy')">Privacy</a></li>
+						<li class="legal"><a href="/legal/">Legal</a></li>
+						<li><a href="/contact-us/">Contact Us</a></li>
+						<li><a href="/web-and-mobile/sitemap/">Site Map</a></li>
+					</ul>
+				</div>
+				<div id="footer-links-mobile">
+					<ul>
+						<li><a href="/legal/">Legal</a></li>
+						<li><a href="/contact-us/">Contact Us</a></li>
+		
+
+				</body>
+</html>
